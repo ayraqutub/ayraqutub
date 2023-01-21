@@ -1,15 +1,14 @@
 ### Hi there 👋, my name is Ayra.
 #### Software Engineering Student
-![Software Engineering Student](https://ibb.co/z266gZP)
+![Software Engineering Student](https://i.postimg.cc/N08nCgP8/Black-Technology-Linked-In-Banner.png)
 
 I am currently in my second year, with a strong passion for developing innovative and efficient software solutions. I have experience in various programming languages and technologies. 
 
 Skills: C++ / Python / Matlab
 
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ayra-qutub/)  
-
-
-
 
 
 
