@@ -1,7 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Ayra.
+#### Software Engineering Student
+![Software Engineering Student](https://ibb.co/z266gZP)
 
-I'm Ayra, a software engineering student at the University of Alberta. I am currently in my second year, with a strong passion for developing innovative and efficient software solutions. I have experience in various programming languages such as C++ and Python. 
+I am currently in my second year, with a strong passion for developing innovative and efficient software solutions. I have experience in various programming languages and technologies. 
+
+Skills: C++ / Python / Matlab
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ayra-qutub/)  
+
+
+
+
+
+
+
 [![Ayra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayraqutub)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ayraqutub/ayraqutub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
