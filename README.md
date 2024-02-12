@@ -4,10 +4,8 @@
 ### Software Engineering Student
 I am currently in my third year of studying engineering at the University of Alberta, with a strong passion for developing innovative and efficient software solutions. I have experience in various programming languages and technologies. 
 
-## Skills
 Languages: C++ / Python / SQL / Java / Matlab 
 
-Technologies: Multipass / Vivado
 
 
 
