@@ -2,7 +2,7 @@
 ![Software Engineering Student](https://i.postimg.cc/N08nCgP8/Black-Technology-Linked-In-Banner.png)
 # Hi there 👋, I'm Ayra Qutub.
 ### Software Engineering Student
-I am currently in my third year of studying engineering at the University of Alberta, with a strong passion for developing innovative and efficient software solutions. I have experience in various programming languages and technologies. 
+I am currently in my fourth year of studying software engineering at the University of Alberta, with a strong passion for developing innovative and efficient software solutions. I have experience in various programming languages and technologies. 
 
 Languages: C++ / Python / SQL / Java / Matlab 
 
