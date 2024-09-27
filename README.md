@@ -4,7 +4,7 @@
 ### Software Engineering Student
 I am currently in my fourth year of studying software engineering at the University of Alberta, with a strong passion for developing innovative and efficient software solutions. I have experience in various programming languages and technologies. 
 
-Languages: C++ / Python / SQL / Java / Matlab 
+Languages: C++ / C / Python / SQL / Java 
 
 
 
